@@ -16,5 +16,4 @@ listOfIntegers.add(2);
 listOfIntegers.add(3);
 System.debug(listOfIntegers);
 
-Public static void addIntoSet (List<Task> tasks);
-Set<Id> whoIds = new Set<Id>();
+
